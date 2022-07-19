@@ -17,7 +17,7 @@ public class VtigerTest {
 	@Test
 	public void CreateProductsTest()
 	{
-		//added extra sop statement
+		//added
 		System.out.println("create products is done");
 		System.out.println("product success");
 		
