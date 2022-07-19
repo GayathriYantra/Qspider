@@ -18,6 +18,7 @@ public class VtigerTest {
 	public void CreateProductsTest()
 	{
 		System.out.println("create products is done");
+		System.out.println("product success");
 	}
 
 }
