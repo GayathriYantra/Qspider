@@ -18,6 +18,7 @@ public class VtigerTest {
 	public void CreateProductsTest()
 	{
 		//modification is done
+		//parameters
 		System.out.println("create products is done");
 		System.out.println("product success");
 		System.out.println("product");
