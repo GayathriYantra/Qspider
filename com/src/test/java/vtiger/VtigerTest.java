@@ -17,7 +17,7 @@ public class VtigerTest {
 	@Test
 	public void CreateProductsTest()
 	{
-		//maven project parameter is done
+		//maven project parameter
 		//modification is done
 		//parameters passing is done
 		System.out.println("create products is done");
