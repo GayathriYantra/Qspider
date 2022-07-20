@@ -21,6 +21,10 @@ public class VtigerTest {
 		System.out.println("create products is done");
 		System.out.println("product success");
 		System.out.println("product");
+		String BROWSER = System.getProperty("browser");
+		String URL=System.getProperty("url");
+		System.out.println("Browser is="+BROWSER);
+		System.out.println("URL is="+URL);
 	}
 
 }
