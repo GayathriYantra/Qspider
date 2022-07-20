@@ -17,7 +17,7 @@ public class VtigerTest {
 	@Test
 	public void CreateProductsTest()
 	{
-		//modified
+		//modification is done
 		System.out.println("create products is done");
 		System.out.println("product success");
 		System.out.println("product");
